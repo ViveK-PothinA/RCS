@@ -1,3 +1,3 @@
-# RCS
-My projects/mini-projects done being a part of Robotics Club @ SASTRA for various competitions
+### RCS
+My mini-projects done being a part of Robotics Club @ SASTRA for competitions during tech fests.
  
